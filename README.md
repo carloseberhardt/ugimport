@@ -1,4 +1,4 @@
-This is UGIMPORT!
+This is ugimport
 =================
 Why?
 ----
@@ -17,7 +17,7 @@ When?
 ----
 Whenever...
 
-usage
+Usage
 ----
 	node ./bin/ugimport.js [options] <file/stdin>
 
